@@ -2,7 +2,7 @@
 <h1>
     <a href="https://www.dio.me/"> 
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Guia de Contribuição</span>
+    <span> Guia de Contribuição:</span>
 </h1>
 
 [![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
@@ -45,7 +45,7 @@
     
 ## <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30px" height="30px"> Convenção de Commits 
 
-| Tipo de Commit | Descrição                                                            | Exemplo
+| Tipo de Commit | Descrição                                                            | Exemplos:
 | ---------------|----------------------------------------------------------------------|-----------
 | `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
 | `fix`          | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
